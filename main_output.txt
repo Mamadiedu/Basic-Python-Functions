@@ -1,0 +1,10 @@
+Rectangle Area: 50
+Circle Area: 153.93804002589985
+Cylinder Volume: 141.3716694115407
+Sphere Volume: 268.082573106329
+Grade: B
+Sum of Elements: 15
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
